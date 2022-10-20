@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="508d445f-1ea2-44d0-b8ef-b4401c8db6dc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LinearEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinearEquation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LinearEquationRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinearEquationRunner.java" afterDir="false" />
